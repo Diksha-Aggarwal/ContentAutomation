@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.env.*
+outputs/
+data/
+.idea/
+.vscode/
+.DS_Store
+*.sqlite3
+.ipynb_checkpoints/
+# virtualenv
+venv/
+env/
+.venv/
+# macOS
+*.DS_Store

@@ -1,0 +1,9 @@
+generator:
+  model_name: Qwen/Qwen2.5-1.5B-Instruct
+  device: cpu
+  max_new_tokens: 150
+
+validator:
+  model_name: Qwen/Qwen2.5-1.5B-Instruct
+  device: cpu
+  max_new_tokens: 80
